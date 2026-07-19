@@ -16,5 +16,4 @@ Resultado:
 * **Quadrados brancos** da máscara → a ilustração aparece.
 * **Linhas/fundo pretos** → a ilustração fica oculto.
 
-É uma técnica muito usada para criar mosaicos, grades e revelar apenas partes de uma imagem. Agora que você sabe esse fluxo, pode usar qualquer desenho em preto e branco como máscara, não apenas quadrados.
-
+É uma técnica usada para criar mosaicos, grades e revelar apenas partes de uma imagem.
