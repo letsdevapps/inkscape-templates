@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.32000351"
-     inkscape:cx="1040.6136"
-     inkscape:cy="323.43395"
+     inkscape:zoom="0.90510661"
+     inkscape:cx="556.84048"
+     inkscape:cy="32.592846"
      inkscape:window-width="1312"
      inkscape:window-height="691"
      inkscape:window-x="54"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4126"
+     inkscape:current-layer="g1361"
      inkscape:lockguides="false" />
   <defs
      id="defs2">
@@ -48,8 +48,7 @@
   <g
      inkscape:label="row1"
      inkscape:groupmode="layer"
-     id="layer1"
-     sodipodi:insensitive="true">
+     id="layer1">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect317"
@@ -323,19 +322,18 @@
        y="0.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect317-3-3-0-2-3"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="0.5"
        inkscape:label="35" />
   </g>
   <g
      inkscape:label="row2"
      inkscape:groupmode="layer"
-     id="g234"
-     sodipodi:insensitive="true">
+     id="g234">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect722"
@@ -609,11 +607,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect790"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -621,8 +619,7 @@
      inkscape:label="row3"
      inkscape:groupmode="layer"
      id="g539"
-     transform="translate(0,6)"
-     sodipodi:insensitive="true">
+     transform="translate(0,6)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect469"
@@ -896,11 +893,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect537"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -908,8 +905,7 @@
      inkscape:label="row4"
      inkscape:groupmode="layer"
      id="g1142"
-     transform="translate(0,12)"
-     sodipodi:insensitive="true">
+     transform="translate(0,12)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect1072"
@@ -1183,11 +1179,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect1140"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -1195,8 +1191,7 @@
      inkscape:label="row5"
      inkscape:groupmode="layer"
      id="g1361"
-     transform="translate(0,18)"
-     sodipodi:insensitive="true">
+     transform="translate(0,18)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect1291"
@@ -1470,11 +1465,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect1359"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -1482,8 +1477,7 @@
      inkscape:label="row6"
      inkscape:groupmode="layer"
      id="g378"
-     transform="translate(0,24)"
-     sodipodi:insensitive="true">
+     transform="translate(0,24)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect308"
@@ -1757,11 +1751,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect376"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -1769,8 +1763,7 @@
      inkscape:label="row7"
      inkscape:groupmode="layer"
      id="g554"
-     transform="translate(0,30)"
-     sodipodi:insensitive="true">
+     transform="translate(0,30)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect484"
@@ -2044,11 +2037,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect552"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -2056,8 +2049,7 @@
      inkscape:label="row8"
      inkscape:groupmode="layer"
      id="g881"
-     transform="translate(0,36)"
-     sodipodi:insensitive="true">
+     transform="translate(0,36)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect811"
@@ -2331,11 +2323,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect879"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -2343,8 +2335,7 @@
      inkscape:label="row9"
      inkscape:groupmode="layer"
      id="g1771"
-     transform="translate(0,42)"
-     sodipodi:insensitive="true">
+     transform="translate(0,42)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect1701"
@@ -2618,11 +2609,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect1769"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -2630,8 +2621,7 @@
      inkscape:label="row10"
      inkscape:groupmode="layer"
      id="g2170"
-     transform="translate(0,48)"
-     sodipodi:insensitive="true">
+     transform="translate(0,48)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect2100"
@@ -2905,11 +2895,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect2168"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -2917,8 +2907,7 @@
      inkscape:label="row11"
      inkscape:groupmode="layer"
      id="g2605"
-     transform="translate(0,54)"
-     sodipodi:insensitive="true">
+     transform="translate(0,54)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect2535"
@@ -3192,11 +3181,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect2603"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -3204,8 +3193,7 @@
      inkscape:label="row12"
      inkscape:groupmode="layer"
      id="g3076"
-     transform="translate(0,60)"
-     sodipodi:insensitive="true">
+     transform="translate(0,60)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect3006"
@@ -3479,11 +3467,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect3074"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -3491,8 +3479,7 @@
      inkscape:label="row13"
      inkscape:groupmode="layer"
      id="g3583"
-     transform="translate(0,66)"
-     sodipodi:insensitive="true">
+     transform="translate(0,66)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect3513"
@@ -3766,11 +3753,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect3581"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -3778,8 +3765,7 @@
      inkscape:label="row14"
      inkscape:groupmode="layer"
      id="g4126"
-     transform="translate(0,72)"
-     sodipodi:insensitive="true">
+     transform="translate(0,72)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect4056"
@@ -4053,11 +4039,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect4124"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -4065,8 +4051,7 @@
      inkscape:label="row15"
      inkscape:groupmode="layer"
      id="g4752"
-     transform="translate(0,78)"
-     sodipodi:insensitive="true">
+     transform="translate(0,78)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect4682"
@@ -4340,11 +4325,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect4750"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -4352,8 +4337,7 @@
      inkscape:label="row16"
      inkscape:groupmode="layer"
      id="g5367"
-     transform="translate(0,84)"
-     sodipodi:insensitive="true">
+     transform="translate(0,84)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect5297"
@@ -4627,11 +4611,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect5365"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -4639,8 +4623,7 @@
      inkscape:label="row17"
      inkscape:groupmode="layer"
      id="g5439"
-     transform="translate(0,90)"
-     sodipodi:insensitive="true">
+     transform="translate(0,90)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect5369"
@@ -4914,11 +4897,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect5437"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -4926,8 +4909,7 @@
      inkscape:label="row18"
      inkscape:groupmode="layer"
      id="g5511"
-     transform="translate(0,96)"
-     sodipodi:insensitive="true">
+     transform="translate(0,96)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect5441"
@@ -5201,11 +5183,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect5509"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -5213,8 +5195,7 @@
      inkscape:label="row19"
      inkscape:groupmode="layer"
      id="g6234"
-     transform="translate(0,102)"
-     sodipodi:insensitive="true">
+     transform="translate(0,102)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect6164"
@@ -5488,11 +5469,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect6232"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -5500,8 +5481,7 @@
      inkscape:label="row20"
      inkscape:groupmode="layer"
      id="g6993"
-     transform="translate(0,108)"
-     sodipodi:insensitive="true">
+     transform="translate(0,108)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect6923"
@@ -5775,11 +5755,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect6991"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -5787,8 +5767,7 @@
      inkscape:label="row21"
      inkscape:groupmode="layer"
      id="g7065"
-     transform="translate(0,114)"
-     sodipodi:insensitive="true">
+     transform="translate(0,114)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect6995"
@@ -6062,11 +6041,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect7063"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -6074,8 +6053,7 @@
      inkscape:label="row22"
      inkscape:groupmode="layer"
      id="g7137"
-     transform="translate(0,120)"
-     sodipodi:insensitive="true">
+     transform="translate(0,120)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect7067"
@@ -6349,11 +6327,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect7135"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -6361,8 +6339,7 @@
      inkscape:label="row23"
      inkscape:groupmode="layer"
      id="g8558"
-     transform="translate(0,126)"
-     sodipodi:insensitive="true">
+     transform="translate(0,126)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect8488"
@@ -6636,11 +6613,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect8556"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -6648,8 +6625,7 @@
      inkscape:label="row24"
      inkscape:groupmode="layer"
      id="g8630"
-     transform="translate(0,132)"
-     sodipodi:insensitive="true">
+     transform="translate(0,132)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect8560"
@@ -6923,11 +6899,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect8628"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -6935,8 +6911,7 @@
      inkscape:label="row25"
      inkscape:groupmode="layer"
      id="g8702"
-     transform="translate(0,138)"
-     sodipodi:insensitive="true">
+     transform="translate(0,138)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect8632"
@@ -7210,11 +7185,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect8700"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -7222,8 +7197,7 @@
      inkscape:label="row26"
      inkscape:groupmode="layer"
      id="g2145"
-     transform="translate(0,144)"
-     sodipodi:insensitive="true">
+     transform="translate(0,144)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect2074"
@@ -7497,11 +7471,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect2143"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -7509,8 +7483,7 @@
      inkscape:label="row27"
      inkscape:groupmode="layer"
      id="g3156"
-     transform="translate(0,150)"
-     sodipodi:insensitive="true">
+     transform="translate(0,150)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect3086"
@@ -7784,11 +7757,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect3154"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -7796,8 +7769,7 @@
      inkscape:label="row28"
      inkscape:groupmode="layer"
      id="g3228"
-     transform="translate(0,156)"
-     sodipodi:insensitive="true">
+     transform="translate(0,156)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect3158"
@@ -8071,11 +8043,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect3226"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -8083,8 +8055,7 @@
      inkscape:label="row29"
      inkscape:groupmode="layer"
      id="g4311"
-     transform="translate(0,162)"
-     sodipodi:insensitive="true">
+     transform="translate(0,162)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect4241"
@@ -8358,11 +8329,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect4309"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -8370,8 +8341,7 @@
      inkscape:label="row30"
      inkscape:groupmode="layer"
      id="g5430"
-     transform="translate(0,168)"
-     sodipodi:insensitive="true">
+     transform="translate(0,168)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect5360"
@@ -8645,11 +8615,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect5428"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -8657,8 +8627,7 @@
      inkscape:label="row31"
      inkscape:groupmode="layer"
      id="g5502"
-     transform="translate(0,174)"
-     sodipodi:insensitive="true">
+     transform="translate(0,174)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect5432"
@@ -8932,11 +8901,11 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect5500"
-       width="4"
+       width="5"
        height="5"
-       x="204.50002"
+       x="204.5"
        y="6.5"
        inkscape:label="35" />
   </g>
@@ -8944,8 +8913,7 @@
      inkscape:label="row32"
      inkscape:groupmode="layer"
      id="g6693"
-     transform="translate(0,180)"
-     sodipodi:insensitive="true">
+     transform="translate(0,180)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect6623"
@@ -9219,9 +9187,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect6691"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -9231,8 +9199,7 @@
      inkscape:label="row33"
      inkscape:groupmode="layer"
      id="g7920"
-     transform="translate(0,186)"
-     sodipodi:insensitive="true">
+     transform="translate(0,186)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect7850"
@@ -9506,9 +9473,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect7918"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -9518,8 +9485,7 @@
      inkscape:label="row34"
      inkscape:groupmode="layer"
      id="g7992"
-     transform="translate(0,192)"
-     sodipodi:insensitive="true">
+     transform="translate(0,192)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect7922"
@@ -9793,9 +9759,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect7990"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -9805,8 +9771,7 @@
      inkscape:label="row35"
      inkscape:groupmode="layer"
      id="g9291"
-     transform="translate(0,198)"
-     sodipodi:insensitive="true">
+     transform="translate(0,198)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect9221"
@@ -10080,9 +10045,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect9289"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -10092,8 +10057,7 @@
      inkscape:label="row36"
      inkscape:groupmode="layer"
      id="g9363"
-     transform="translate(0,204)"
-     sodipodi:insensitive="true">
+     transform="translate(0,204)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect9293"
@@ -10367,9 +10331,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect9361"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -10379,8 +10343,7 @@
      inkscape:label="row37"
      inkscape:groupmode="layer"
      id="g9435"
-     transform="translate(0,210)"
-     sodipodi:insensitive="true">
+     transform="translate(0,210)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect9365"
@@ -10654,9 +10617,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect9433"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -10666,8 +10629,7 @@
      inkscape:label="row38"
      inkscape:groupmode="layer"
      id="g10842"
-     transform="translate(0,216)"
-     sodipodi:insensitive="true">
+     transform="translate(0,216)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect10772"
@@ -10941,9 +10903,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect10840"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -10953,8 +10915,7 @@
      inkscape:label="row39"
      inkscape:groupmode="layer"
      id="g10914"
-     transform="translate(0,222)"
-     sodipodi:insensitive="true">
+     transform="translate(0,222)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect10844"
@@ -11228,9 +11189,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect10912"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -11240,8 +11201,7 @@
      inkscape:label="row40"
      inkscape:groupmode="layer"
      id="g10986"
-     transform="translate(0,228)"
-     sodipodi:insensitive="true">
+     transform="translate(0,228)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect10916"
@@ -11515,9 +11475,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect10984"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -11527,8 +11487,7 @@
      inkscape:label="row41"
      inkscape:groupmode="layer"
      id="g12555"
-     transform="translate(0,234)"
-     sodipodi:insensitive="true">
+     transform="translate(0,234)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect12485"
@@ -11802,9 +11761,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect12553"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -11814,8 +11773,7 @@
      inkscape:label="row42"
      inkscape:groupmode="layer"
      id="g12627"
-     transform="translate(0,240)"
-     sodipodi:insensitive="true">
+     transform="translate(0,240)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect12557"
@@ -12089,9 +12047,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect12625"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -12101,8 +12059,7 @@
      inkscape:label="row43"
      inkscape:groupmode="layer"
      id="g12699"
-     transform="translate(0,246)"
-     sodipodi:insensitive="true">
+     transform="translate(0,246)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect12629"
@@ -12376,9 +12333,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect12697"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -12388,8 +12345,7 @@
      inkscape:label="row44"
      inkscape:groupmode="layer"
      id="g14322"
-     transform="translate(0,252)"
-     sodipodi:insensitive="true">
+     transform="translate(0,252)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect14252"
@@ -12663,9 +12619,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect14320"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -12675,8 +12631,7 @@
      inkscape:label="row45"
      inkscape:groupmode="layer"
      id="g14394"
-     transform="translate(0,258)"
-     sodipodi:insensitive="true">
+     transform="translate(0,258)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect14324"
@@ -12950,9 +12905,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect14392"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -12962,8 +12917,7 @@
      inkscape:label="row46"
      inkscape:groupmode="layer"
      id="g16089"
-     transform="translate(0,264)"
-     sodipodi:insensitive="true">
+     transform="translate(0,264)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect16019"
@@ -13237,9 +13191,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect16087"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -13249,8 +13203,7 @@
      inkscape:label="row47"
      inkscape:groupmode="layer"
      id="g16161"
-     transform="translate(0,270)"
-     sodipodi:insensitive="true">
+     transform="translate(0,270)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect16091"
@@ -13524,9 +13477,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect16159"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -13536,8 +13489,7 @@
      inkscape:label="row48"
      inkscape:groupmode="layer"
      id="g17928"
-     transform="translate(0,276)"
-     sodipodi:insensitive="true">
+     transform="translate(0,276)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect17858"
@@ -13811,9 +13763,9 @@
        y="6.5"
        inkscape:label="34" />
     <rect
-       style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.295813;stroke-opacity:1"
        id="rect17926"
-       width="4"
+       width="5"
        height="5"
        x="204.50002"
        y="6.5"
@@ -13823,8 +13775,7 @@
      inkscape:label="row49"
      inkscape:groupmode="layer"
      id="g18000"
-     transform="translate(0,282)"
-     sodipodi:insensitive="true">
+     transform="translate(0,282)">
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="rect6832"
