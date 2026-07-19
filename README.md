@@ -6,3 +6,5 @@
 
 ---
 [Inkscape Install Ubuntu](docs/inkscape-install-ubuntu.md)
+
+[Instructions Mosaic Pattern](docs/instructions-mosaic-pattern.md)
